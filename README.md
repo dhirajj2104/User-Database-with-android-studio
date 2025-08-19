@@ -19,7 +19,8 @@ This Android app allows users to add, view, update, and delete user profiles sto
 ---
 
 ##  Screenshots  
-*(Include sample screenshots to showcase the UI and user flow.)*
+![WhatsApp Image 2025-08-19 at 21 27 59_0d767f04](https://github.com/user-attachments/assets/6d43312b-630d-457f-a727-517976396618)
+
 
 ---
 
