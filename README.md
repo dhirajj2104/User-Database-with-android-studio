@@ -18,15 +18,35 @@ This Android app allows users to add, view, update, and delete user profiles sto
 
 ---
 
-##  Screenshots  
-![WhatsApp Image 2025-08-19 at 21 27 59_0d767f04](https://github.com/user-attachments/assets/6d43312b-630d-457f-a727-517976396618)
+##  Screenshots
+-Home page
+
+<img src="https://github.com/user-attachments/assets/712815fe-87c5-4f6a-a437-1cd411331c06" width="300">
+
+-insert
+
+<img src="https://github.com/user-attachments/assets/8faa4d54-4920-4033-9816-bb82f3820a4d" width="300">
+
+-view
+
+<img src="https://github.com/user-attachments/assets/dc0584ca-b17a-40ea-bffd-6cfa27aca6f4" width="300">
+
+-update
+
+<img src="https://github.com/user-attachments/assets/129b6df4-1239-4d50-a8f2-4af1b3ea0278" width="300">
+
+-delete
+
+<img src="https://github.com/user-attachments/assets/f6d6afc1-7001-46a1-8a66-52c1253cbc81" width="300">
+
+
 
 
 ---
 
 ##  Prerequisites  
 - Android Studio Arctic Fox or newer  
-- Java and/or Kotlin installed  
+- Java installed  
 - (If using external database or API, mention any required SDKs or setup steps.)
 
 ---
