@@ -55,6 +55,3 @@ This Android app allows users to add, view, update, and delete user profiles sto
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/User-Database-with-android-studio.git
-cd User-Database-with-android-studio
-
-# Open the project in Android Studio
